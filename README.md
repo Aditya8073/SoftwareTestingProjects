@@ -58,11 +58,6 @@ Test cases are categorized based on application modules and functionalities. Eac
 - Actual Results
 - Status (Pass/Fail)
 
-📂 Test Case Files:
-- [Login Test Cases](./TestCases/Login_Test_Cases.xlsx)
-- [Signup Test Cases](./TestCases/Signup_Test_Cases.xlsx)
-- [Chat Functionality Test Cases](./TestCases/Chat_Functionality_Test_Cases.xlsx)
-
 ---
 
 ## 🚀 Getting Started
